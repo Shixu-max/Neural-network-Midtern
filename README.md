@@ -1,7 +1,7 @@
 # Neural-network-Midtern
 <h1 align="center"> Neural Network Two Layers Classifier</h1>
 
-<div align="center"> Author: 22110980014 Xu Shi</div>
+<div align="center"> Author: 22210980109 Yuxin Li; 22210980112 Xicheng Sheng; 22110980014 Xu Shi</div>
 
 GitHub: https://github.com/Shixu-max/
 Model in Baidu Netdisk: https://pan.baidu.com/
