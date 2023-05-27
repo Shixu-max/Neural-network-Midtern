@@ -10,12 +10,12 @@ where Baidu Netdisk's fetch code:
 
 ## Contents
 - [Target](#target)
-- [First problem](#first problem)
+- [First problem](#first-problem)
   * [Dataset](#dataset)
   * [Train CNN](#train-cnn)
   * [Data augmentation](#data-augmentation)
   * [Compare](#compare)
-- [Second problem](#second problem)
+- [Second problem](#second-problem)
   * [Dataset](#dataset)
   * [Train models](#train-models)
   * [Visualization](#visualization)
