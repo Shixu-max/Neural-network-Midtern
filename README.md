@@ -1,7 +1,7 @@
 # Neural-network-Midtern
-<h1 align="center"> Neural Network Two Layers Classifier</h1>
+<h1 align="center"> Neural-network-Midtern</h1>
 
-<div align="center"> Author: 22210980109 Yuxin Li; 22210980112 Xicheng Sheng; 22110980014 Xu Shi</div>
+<div align="center"> Authors: 22210980109 Yuxin Li; 22210980112 Xicheng Sheng; 22110980014 Xu Shi</div>
 
 GitHub: https://github.com/Shixu-max/
 Model in Baidu Netdisk: https://pan.baidu.com/
@@ -9,48 +9,67 @@ Model in Baidu Netdisk: https://pan.baidu.com/
 where Baidu Netdisk's fetch code: 
 
 ## Contents
-
 - [Target](#target)
-  * [Train](#train)
-  * [Parameter Seek](#parameter-seek)
-  * [Test](#test)
-- [Datasets](#datasets)
+- [First problem](#first problem)
+  * [Dataset](#dataset)
+  * [Train CNN](#train-cnn)
+  * [Data augmentation](#data-augmentation)
+  * [Compare](#compare)
+- [Second problem](#second problem)
+  * [Dataset](#dataset)
+  * [Train models](#train-models)
+  * [Visualization](#visualization)
+  * [Compare](#compare)
 - [Packages](#packages)
 - [Codes](#codes)
 
 
 ## Target
-Constructing neural network 
-### Train
-1111
+1 Train and test on CIFAR-100 using CNN network models (ResNet) as baselines; Compare the performance of Cutmix, Cutout, Mixup, and Baseline methods in CIFAR-100 image classification tasks; Visualize three training samples through cutmix, cutout, and mixup, and show a total of 9 images.
+2 Train and test the target detection models Faster R-CNN and FCOS on the VOC dataset; Visualize the proposal box of the first stage of Faster R-CNN on four test images; Visualize the detection results (category labels, scores, boundingbox) of three images that are not in the VOC dataset, but contain category objects in the VOC, and compare them. Show a total of six images;
+### First problem
+## Dataset
+CIFAR-100
 
-### Perparameter Seek 
-2222
+## Train CNN
+Res-Net
 
-### Test
-3333
+## Data augmentation
+Cutmix
 
-## Datasets
-4444
+## Compare
 
-## Packages
+### Second problem
+## Dataset
+VOC
+
+## Train models
+Faster R-CNN and FCOS
+
+## Visualization
+
+## Compare
+
+
+### Packages
 1. Numpy
-2. Tqdm
+2. Tensorflow
 3. matplotlib
-4. pickle
-5. gzip
-6. time
+4. 
+5. 
 
-## Codes 
+### Codes 
 
-* **twolayerclassifier.py**
+* **123.py**
 
-11
- 
-* **figureplot.py**
 
-22
+* **456.py**
 
-* **main.ipynb**
 
-33
+* **789.py**
+
+
+### Setting
+
+
+
