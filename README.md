@@ -32,25 +32,36 @@ Baidu Netdisk's fetch code: apq9
 ## Dataset
 CIFAR-100
 
+https://www.cs.toronto.edu/~kriz/cifar.html
+
 ## Train CNN
 Res-Net
 
 ## Data augmentation
-Cutmix
+CutMix, Mixup, Cutout
 
 ## Compare
+For the compare results of the four methods, you should run 
 
 ### Second problem
 ## Dataset
-VOC
+VOC 2007
+
+http://host.robots.ox.ac.uk/pascal/VOC/
 
 ## Train models
 Faster R-CNN and FCOS
 
 ## Visualization
+For the proposal box of Faster R-CNN, you should run 
+
+For the object detection result of Faster R-CNN, you should run 
+
+For the object detection result of FCOS, you should run 
+
 
 ## Compare
-
+For evaluation of the Faster R-CNN and FCOS, you should run 
 
 ### Packages
 1. Numpy
