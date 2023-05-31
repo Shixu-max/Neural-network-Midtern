@@ -1,5 +1,5 @@
-# Neural-network-Midtern
-<h1 align="center"> Neural-network-Midtern</h1>
+# Neural-network-Midterm
+<h1 align="center"> Neural-network-Midterm</h1>
 
 <div align="center"> Authors: 22210980109 Yuxin Li; 22210980112 Xicheng Sheng; 22110980014 Xu Shi</div>
 
