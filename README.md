@@ -4,9 +4,10 @@
 <div align="center"> Authors: 22210980109 Yuxin Li; 22210980112 Xicheng Sheng; 22110980014 Xu Shi</div>
 
 GitHub: https://github.com/Shixu-max/
+
 Model in Baidu Netdisk: https://pan.baidu.com/s/1t7ztaIQr-tuu21NPJA7LxA
 
-where Baidu Netdisk's fetch code: apq9
+Baidu Netdisk's fetch code: apq9
 
 ## Contents
 - [Target](#target)
