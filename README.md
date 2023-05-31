@@ -3,7 +3,7 @@
 
 <div align="center"> Authors: 22210980109 Yuxin Li; 22210980112 Xicheng Sheng; 22110980014 Xu Shi</div>
 
-GitHub: https://github.com/Shixu-max/
+GitHub: https://github.com/Shixu-max/Neural-network-Midtern
 
 Model in Baidu Netdisk: https://pan.baidu.com/s/1t7ztaIQr-tuu21NPJA7LxA
 
