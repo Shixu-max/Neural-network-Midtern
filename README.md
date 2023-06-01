@@ -36,7 +36,7 @@ https://www.cs.toronto.edu/~kriz/cifar.html
 
 
 #### Source codes
-Source codes and more detials for task 1 can be accessed in 'task1'
+Source codes and more detials for task 1 can be accessed in `task1`.
 
 
 
