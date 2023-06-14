@@ -7,9 +7,9 @@ import torchvision.utils as vutils
 import torchvision
 import torchvision.transforms as transforms
 import tqdm
-from models.resnet import *
+from models.resnet import resnet18
 from tqdm import trange
-from train_models import train,acc_on_test
+from models.train_models import train,acc_on_test
 
 
 transform = transforms.Compose([
@@ -29,7 +29,7 @@ testloader = torch.utils.data.DataLoader(testset, batch_size=512, shuffle=False,
 print("The Number of Samples in Train Set is :",len(trainset))
 print("The Number of Samples in Test Set is :",len(testset))
 
-model = resnet.resnet18(num_classes=100).cuda()
+model = resnet18(num_classes=100).cuda()
 model = torch.load('./models/datas/baseline_aug_data.pth')
 
 print(acc_on_test(model,testloader))
