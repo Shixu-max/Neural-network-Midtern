@@ -47,7 +47,7 @@ writer = SummaryWriter('./log')
 
 epoch = 200
 batchsize = 512
-loss,val_acc, test_acc = train_mixup(model,optimizer,criterion,batchsize, epoch,trainset,testloader,scheduler)
+loss,val_acc, test_acc = train(model,optimizer,criterion,batchsize, epoch,trainset,testloader,scheduler)
 torch.save(model,'./models/output/baseline_v2.pth')
 data = {'loss':loss,'val_acc':val_acc,'test_acc':test_acc}
 torch.save(data,'./models/datas/baseline_v2_data.pth')
