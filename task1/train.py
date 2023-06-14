@@ -48,7 +48,7 @@ writer = SummaryWriter('./log')
 epoch = 200
 batchsize = 512
 loss,val_acc, test_acc = train(model,optimizer,criterion,batchsize, epoch,trainset,testloader,scheduler)
-torch.save(model,'./models/output/baseline_v2.pth')
+torch.save(model,'./models/output/baseline_aug.pth')
 data = {'loss':loss,'val_acc':val_acc,'test_acc':test_acc}
-torch.save(data,'./models/datas/baseline_v2_data.pth')
+torch.save(data,'./models/datas/baseline_aug_data.pth')
 
