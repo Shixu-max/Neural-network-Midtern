@@ -2,7 +2,8 @@
 
 ## TRAIN
 
-'''python train.py'''
+```python train.py```
+
 
 ## TEST
-'''python test.py'''
+```python test.py```
